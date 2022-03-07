@@ -5,3 +5,4 @@ Prints 'Hello, World' followed by a new line to the standard output
 Display first 10 lines
 6.Write a script that displays the third line of the file iacta
 9.Duplicate last line
+10.Delete javascript files
